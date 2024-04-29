@@ -1,0 +1,10 @@
+.form-label,
+.form-control,
+.form-select,
+.btn {
+    margin-bottom: 20px; 
+}
+
+.container > * {
+    margin-bottom: 20px;
+}
